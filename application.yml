@@ -6,7 +6,7 @@ logging:
           samples: INFO
 
 fortune:
-  fallbackFortune: The fog should lift today.
+  fallbackFortune: Today is your lucky day.
 
 eureka:
   instance:
